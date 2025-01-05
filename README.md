@@ -1,4 +1,4 @@
-[![WiFi Clock LED Matrix](http://img.youtube.com/vi/qhvd6wGgwzA/0.jpg)](http://www.youtube.com/watch?v=qhvd6wGgwzA "WiFi Clock LED Matrix")
+![Connection Diagram](Images/20241118_123019.jpg)
 
 # Remote Control Translator
 Translates signals from unoriginal Remote Control to your TV
