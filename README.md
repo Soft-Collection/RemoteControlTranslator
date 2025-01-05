@@ -12,7 +12,7 @@ Translates signals from unoriginal Remote Control to your TV
 |1 | [IR Receiver](https://www.aliexpress.com/item/32970639635.html?spm=a2g0o.order_list.order_list_main.114.184c18028IEQMF) | PC-838 |
 
 ## Notes
-[IRremote Library]([https://github.com/adafruit/Adafruit-GFX-Library](https://github.com/Arduino-IRremote/Arduino-IRremote) must be installed.
+[IRremote Library](https://github.com/Arduino-IRremote/Arduino-IRremote) must be installed.
 
 ## Connection Diagram
 ![Connection Diagram](Images/Connection%20Diagram.png)
