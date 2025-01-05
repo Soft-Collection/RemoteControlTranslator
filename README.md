@@ -1,5 +1,4 @@
-![Connection Diagram](Images/20241118_123019.jpg)
-<img src="Images/20241118_123019.jpg" alt="Connection Diagram" style="max-width: 640; height: auto;">
+<img src="Images/20241118_123019.jpg" alt="Remote Control Translator" style="max-width: 600; height: 723;">
 
 # Remote Control Translator
 Translates signals from unoriginal Remote Control to your TV
